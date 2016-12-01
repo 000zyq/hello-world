@@ -1,2 +1,8 @@
 # hello-world
-tradition
+
+
+Hi humans!
+
+Hubot here, I like node.js and Coffeescript..
+
+Blablablablabla
